@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/A/JAVA A.md",
+                "file": "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/01_2.1. Класс.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/A/JAVA A.md",
+                "file": "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/01_2.1. Класс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/A/JAVA A.md",
+                "file": "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/01_2.1. Класс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/A/JAVA A.md"
+                "file": "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/01_2.1. Класс.md"
               }
             }
           }
@@ -146,10 +146,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7ce891848e51c436",
+  "active": "6afdedc3b3425253",
   "lastOpenFiles": [
-    "JAVA/A/JAVA A.md",
-    "JAVA/A",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527173544.png",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527174148.png",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/01_2.1. Класс.md",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527174621.png",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527174515.png",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527174447.png",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527174424.png",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527174343.png",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527174305.png",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240527174226.png",
+    "JAVA/00_A/JAVA A.md",
+    "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы",
+    "JAVA/01_Skill",
+    "JAVA/00_A",
     "JAVA"
   ]
 }
