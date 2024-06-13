@@ -11,8 +11,12 @@
             "id": "ed6bff30ce5276d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,8 +146,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ed6bff30ce5276d1",
+  "active": "6afdedc3b3425253",
   "lastOpenFiles": [
+    "1С_Программирование/02_УчебныйЦентр/Вебинары",
+    "1С_Программирование/02_УчебныйЦентр/Модули",
+    "1С_Программирование/02_УчебныйЦентр",
+    "1С_Программирование/01_Конспект",
+    "1С_Программирование",
     "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/04_2.5. Переменные и операторы.md",
     "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы/Картинки/Pasted image 20240531104212.png",
     "JAVA/01_Skill/02_Модуль 2. Основные конструкции и операторы (Часть 2)/Картинки",
@@ -160,7 +173,6 @@
     "JAVA/00_A/JAVA A.md",
     "JAVA/01_Skill/01_Модуль 2. Основные конструкции и операторы",
     "JAVA/01_Skill",
-    "JAVA/00_A",
-    "JAVA"
+    "JAVA/00_A"
   ]
 }
